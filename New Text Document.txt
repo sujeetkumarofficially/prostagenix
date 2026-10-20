@@ -1,0 +1,65 @@
+Icons URL - 
+-------------------------------------
+<link rel="apple-touch-icon" sizes="57x57" href="https://prostagenix.co.ke/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://prostagenix.co.ke/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://prostagenix.co.ke/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://prostagenix.co.ke/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://prostagenix.co.ke/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://prostagenix.co.ke/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://prostagenix.co.ke/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://prostagenix.co.ke/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://prostagenix.co.ke/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://prostagenix.co.ke/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://prostagenix.co.ke/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://prostagenix.co.ke/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://prostagenix.co.ke/favicon-16x16.png">
+<link rel="manifest" href="https://prostagenix.co.ke/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://prostagenix.co.ke/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+font name
+---------------------
+https://prostagenix.co.ke/fonts/inter-v20-latin-500.woff2
+https://prostagenix.co.ke/fonts/inter-v20-latin-600.woff2
+https://prostagenix.co.ke/fonts/inter-v20-latin-regular.woff2
+https://prostagenix.co.ke/fonts/poppins-v24-latin-500.woff2
+https://prostagenix.co.ke/fonts/poppins-v24-latin-600.woff2
+https://prostagenix.co.ke/fonts/poppins-v24-latin-700.woff2
+https://prostagenix.co.ke/fonts/poppins-v24-latin-800.woff2
+https://prostagenix.co.ke/fonts/poppins-v24-latin-regular.woff2
+
+
+href lang - english, kenya
+
+pargraph, li paragraph, points paragrpah size will be 17px. this will be on desktop, tablet, and mobile.
+
+I want to description text, point description, cheklist description and paragraph text color -  bilkul black.
+
+you have design simaple design that love by seo, Aeo, and geo
+
+you have to use proper schema realted to page. 
+
+maine content kiya hai aapko content full page banana
+
+maine header footer ka code bhi share kiya hai aapko usko bhi add karna hai.  keep in mind that aapko heder stricky nahi karna hai.
+
+page ka design color normal hona chahiye.
+
+aapko mobile screen ke botton me ek rebbon add karna hai jisme three option - home, order, and language switer. and mobile and tablet me only order now ka buttom hoga light buttom corner me with animation. es section ko aapko bikul professional design karna hai.
+
+aapko hero section bahut hi aacha design karna hai
+
+
+
+Home - https://prostagenix.co.ke
+
+Order - received - https://prostagenix.co.ke/order-received/
+
+image link - https://libidex.net.in/wp-content/uploads/2026/10/prostagenix.webp ( this is image you have to used in hero section and it has colorful backgroud)
+https://libidex.net.in/wp-content/uploads/2026/10/prostagenix-supplement.webp ( this is image you have to used buttom above footer. section and it has transparant backround backgroud)
+
+
+logo url - https://libidex.net.in/wp-content/uploads/2026/10/logo.webp
+
